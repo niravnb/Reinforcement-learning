@@ -13,4 +13,4 @@ Algorithms implemented:
 8. Policy Gradients on chakra & vishamC world using OpenAI Gym
 9. SMDP Q-learning on 4 room grid world environment using OpenAI Gym
 10. Intra-Option Q-learning on 4 room grid world environment using OpenAI Gym
-11. Deep Q-Network (DQN) on ‘CartPole’ environment of OpenAI Gym using Tensor Flow
+11. Deep Q-Network (DQN) on ‘CartPole’ environment of OpenAI Gym using TensorFlow
