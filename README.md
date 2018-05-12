@@ -3,8 +3,6 @@ Implementation of Reinforcement Learning algorithms in python.
 
 
 Algorithms implemented:
-
-Bandits:
 1. epsilon-greedy on 10-armed bandit testbed
 2. Softmax action selection method using the Gibbs distribution on 10-armed testbed
 3. UCB1
