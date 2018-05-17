@@ -14,3 +14,12 @@ Algorithms implemented:
 9. SMDP Q-learning on 4 room grid world environment using OpenAI Gym
 10. Intra-Option Q-learning on 4 room grid world environment using OpenAI Gym
 11. Deep Q-Network (DQN) on ‘CartPole’ environment of OpenAI Gym using TensorFlow
+
+Plots:
+1. Regret
+2. Average Reward
+3. % Optimal arm pulls
+4. Visualizing Optimal Policy
+5. Visualizing state values
+6. Trajectory followed by learned agent
+7. Learning Curves - Average steps to goal, Average total discounted return, Episode Length.
